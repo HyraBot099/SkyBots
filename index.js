@@ -134,8 +134,8 @@ try{
 ///////////////////Guild-join/////////////////////
 client.on('guildCreate', guild => {
   const owner = guild.owner;
-   const botownerid = "745581095747059722";
-   const botownerid2 = "729554449844011130";
+   const botownerid = "856895462081691668";
+   const botownerid2 = "906098345750183986";
 
    //const botownerfix = client.users.fetch(botownerid);
    const botowner = client.users.cache.get(botownerid);
